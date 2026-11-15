@@ -1,5 +1,7 @@
 # Webby & Webtoons
 
+LINK FOR THE LIVE SITE: https://mrsfluffyrae.github.io/webby-and-webtoons-final-draft-with-javascript/
+
 A cozy, multi-page reading diary for webtoon and manhwa fans, built with HTML, CSS and JavaScript.
 
 ## Pages
