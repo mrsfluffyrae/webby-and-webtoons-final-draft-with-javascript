@@ -17,7 +17,7 @@ Shared files: `styles.css` (one stylesheet for every page) and `app.js` (all Jav
 ### Student Details
 - Name: Rachael Muthoni Njeru
 - Registration Number: BDSA/MK/2243/09/25
-- Date Submitted: 15/10/2026
+- Date Submitted: 15/11/2026
 
 ### Features Implemented
 - [x] H1 Personalised hero greeting
